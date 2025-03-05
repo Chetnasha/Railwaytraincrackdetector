@@ -63,9 +63,6 @@ to detect track defects such as cracks, gaps, broken sleepers, and interfoot def
 ## Demo
 The system generates a **processed frequency graph** from the Piezoelectric sensor to highlight anomalies.
 
-## Contributors
-**Komal - Vinay Pratap - Chetna - Anshoom - Siddharth**
-
 ## License
 This project is licensed under the **MIT License**.
 
