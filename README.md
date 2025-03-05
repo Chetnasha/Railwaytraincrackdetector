@@ -4,7 +4,8 @@
 This project aims to develop an AI-based acoustic wave monitoring system to detect railway track defects such as cracks, fractures, and wear. The system enhances railway safety, efficiency, and reliability by integrating sensors, AI algorithms, and communication modules.
 
 ## Problem Statement
-Train derailments remain a significant safety hazard. This system addresses the issue by:
+Railway derailments account for over 50% of annual railway accidents, causing significant damage and casualties. The proposed AI-based Acoustic Railway Track Defect Detection System aims
+to detect track defects such as cracks, gaps, broken sleepers, and interfoot defects using acoustic sensors and AI.Train derailments remain a significant safety hazard. This system addresses the issue by:
 - Identifying frequency anomalies with a **Main Module**.
 - Processing visual data using a **Child Module**.
 - Providing real-time alerts for train supervisors and station admins.
