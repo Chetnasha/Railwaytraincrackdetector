@@ -15,11 +15,11 @@ int readings[numReadings]; // the readings from the analog input
 int readIndex = 0; // the index of the current reading
 
 // Replace with your network credentials
-#define WIFI_SSID "Airtel_CheatMansion"
-#define WIFI_PASSWORD "Cheatcoders@727"
+#define WIFI_SSID USER
+#define WIFI_PASSWORD PASS
 
 // Replace with your Firebase project credentials
-#define API_KEY "AIzaSyBewNHuhdCoDnlPqWANmcBasZhovK6oZUs"
+#define API_KEY API_KEY
 #define DATABASE_URL "https://railway-acoustic-default-rtdb.firebaseio.com/"
 
 // Define Firebase Data object
